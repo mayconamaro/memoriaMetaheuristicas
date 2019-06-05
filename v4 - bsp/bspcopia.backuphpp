@@ -1,0 +1,39 @@
+#ifndef BSP_HPP
+#define BSP_HPP
+
+class Solucao;
+
+class BSP {
+
+public:
+    
+    //Construtor
+    BSP();
+    
+    //inserir solucao sem verificar nada 
+    void inserir(Solucao* sol, float fo);
+    
+    //procurar valor de funcao de uma solucao
+    float buscar(Solucao* sol);
+    
+    //imprimir a arvore
+    void prettyPrint();
+    
+    //verificar revisitacao e retornar uma solucao nao visitada
+    Solucao* vizinhoNaoVisitado(Solucao* sol);
+
+private:
+    
+    /* Nó de uma BSP contem uma solucao, seu valor de funcao objetivo
+     * uma flag pra indicar se aquele subespaço está fechado (completamente revisitado)
+     * e dois nós filhos, possivelmente vazios (nullptr) */
+    
+    Solucao* elemento;
+    float valorDeFuncao;
+    
+    bool estaAberto;
+    
+    BSP* filhoEsq;
+    BSP* filhoDir;
+};
+#endif

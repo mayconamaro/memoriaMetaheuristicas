@@ -1,0 +1,106 @@
+#include <iostream>
+#include <cassert>
+#include <cmath>
+#include "bsp.hpp"
+#include "problema.hpp"
+
+
+BSP::BSP(){
+    
+    this->estaAberto = true;
+    this->valorDeFuncao = 0;
+    this->elemento = nullptr;
+    this->filhoEsq = nullptr;
+    this->filhoDir = nullptr;
+}
+    
+     
+void BSP::inserir(Solucao* sol, float fo){
+
+    
+    assert (sol->numeroTarefas > 0);
+    
+    if(this->elemento == nullptr){
+        std::cout << "entrou";
+        this->elemento = new Solucao(sol->numeroTarefas);
+        sol->copiarPara(elemento);
+        this->valorDeFuncao = fo;
+    }else{
+    
+        if(this->filhoEsq == nullptr){
+        
+            this->filhoEsq = new BSP();
+            this->filhoDir->inserir(sol, fo);
+        }else{
+        
+            if(this->filhoDir == nullptr){
+            
+                this->filhoDir = new BSP();
+                this->filhoDir->inserir(sol, fo);
+            }else{
+            
+                // Distancia euclidiana define pra onde vai
+                int posMaiorDiferenca = 0;
+                int maiorDiferenca = 0;
+                for(int i = 0; i < sol->numeroTarefas; i++){
+        
+                    if(std::abs(sol->tarefas[i] - elemento->tarefas[i]) > maiorDiferenca){
+            
+                        posMaiorDiferenca = i;
+                        maiorDiferenca = std::abs(sol->tarefas[i] - elemento->tarefas[i]);
+                    }
+                }
+                
+                if(maiorDiferenca == 0){
+                    std::cout << "revisitou!" << std::endl;
+                }else{
+                
+                int dis1 = std::abs(sol->tarefas[posMaiorDiferenca] - this->filhoEsq->elemento->tarefas[posMaiorDiferenca]);
+                int dis2 = std::abs(sol->tarefas[posMaiorDiferenca] - this->filhoDir->elemento->tarefas[posMaiorDiferenca]);
+                
+                    if(dis1 <= dis2){
+                    
+                        this->filhoEsq->inserir(sol, fo);
+                    }else{
+                    
+                        this->filhoDir->inserir(sol, fo);
+                    }
+                }
+            }
+        }
+    }
+}
+    
+    
+float BSP::buscar(Solucao* sol){
+
+    //TODO
+}
+    
+    
+void BSP::prettyPrint(){
+
+    if(this->elemento != nullptr){
+        this->elemento->imprimir();
+        std::cout << "\n";
+    }
+    
+    if(this->filhoEsq != nullptr){
+    
+        std::cout << "\t";
+        this->filhoEsq->prettyPrint();
+    }
+    
+    if(this->filhoDir != nullptr){
+    
+        std::cout << "\t";
+        this->filhoDir->prettyPrint();
+    }
+}
+    
+    
+Solucao* BSP::vizinhoNaoVisitado(Solucao* sol){
+
+    //TODO
+    return nullptr;
+}
