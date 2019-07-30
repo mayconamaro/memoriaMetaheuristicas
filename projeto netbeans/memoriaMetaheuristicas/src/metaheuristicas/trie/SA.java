@@ -7,8 +7,11 @@ package metaheuristicas.trie;
 
 import interfaces.Instancia;
 import interfaces.Solucao;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 import memoria.Trie;
+import memoria.Tuple;
 
 /**
  * Metaheurística Simulated Annealing utilizando Tabela Hash como memória
@@ -23,15 +26,16 @@ public class SA {
     private Solucao resposta;
     private Trie memoria;
     private int iteracoes;
+    public List<Tuple<Integer, Float>> historico;
 
     public void rodar(Solucao s, Instancia i, boolean usarOperadorBloco, boolean usarMemoria) {
-
+        historico = new ArrayList<>();
         iteracoes = 0;
 
         if (usarMemoria) {
             memoria = new Trie();
         }
-
+        boolean esfriar;
         Solucao sstar = s.retornarCopia();
         float fstar = s.calcularValorDeFuncao(i);
 
@@ -107,8 +111,9 @@ public class SA {
                 f2 = s1.calcularValorDeFuncao(i);
             }
             // aleatoriamente aceita o vizinho
+            esfriar = (f2 >= f1);
             if (probabiblidadeAceitacao(f1, f2, temperatura) > rand.nextFloat()) {
-
+                
                 s = s1.retornarCopia();
                 f1 = f2;
             }
@@ -121,7 +126,9 @@ public class SA {
             }
 
             // esfriar :)
-            temperatura *= (1 - taxaResfriamento);
+            if(esfriar)
+                temperatura *= (1 - taxaResfriamento);
+            historico.add(new Tuple<>(iteracoes, fstar));
             iteracoes++;
         }
 

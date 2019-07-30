@@ -1,0 +1,80 @@
+-- com memoria
+
+Valor da solucao inicial: 3259.0
+Valor da solucao final: 953.0
+Iteracoes: 33
+Revisitacoes evitadas: 99
+Tempo gasto (segundos): 0.05
+Iteracao: 0 melhor solucao: 1266.0
+Iteracao: 1 melhor solucao: 1220.0
+Iteracao: 2 melhor solucao: 1090.0
+Iteracao: 3 melhor solucao: 1063.0
+Iteracao: 4 melhor solucao: 1063.0
+Iteracao: 5 melhor solucao: 954.0
+Iteracao: 6 melhor solucao: 954.0
+Iteracao: 7 melhor solucao: 954.0
+Iteracao: 8 melhor solucao: 954.0
+Iteracao: 9 melhor solucao: 954.0
+Iteracao: 10 melhor solucao: 954.0
+Iteracao: 11 melhor solucao: 954.0
+Iteracao: 12 melhor solucao: 954.0
+Iteracao: 13 melhor solucao: 954.0
+Iteracao: 14 melhor solucao: 954.0
+Iteracao: 15 melhor solucao: 954.0
+Iteracao: 16 melhor solucao: 954.0
+Iteracao: 17 melhor solucao: 954.0
+Iteracao: 18 melhor solucao: 953.0
+Iteracao: 19 melhor solucao: 953.0
+Iteracao: 20 melhor solucao: 953.0
+Iteracao: 21 melhor solucao: 953.0
+Iteracao: 22 melhor solucao: 953.0
+Iteracao: 23 melhor solucao: 953.0
+Iteracao: 24 melhor solucao: 953.0
+Iteracao: 25 melhor solucao: 953.0
+Iteracao: 26 melhor solucao: 953.0
+Iteracao: 27 melhor solucao: 953.0
+Iteracao: 28 melhor solucao: 953.0
+Iteracao: 29 melhor solucao: 953.0
+Iteracao: 30 melhor solucao: 953.0
+Iteracao: 31 melhor solucao: 953.0
+Iteracao: 32 melhor solucao: 953.0
+
+-- sem memoria
+
+Valor da solucao inicial: 3259.0
+Valor da solucao final: 972.0
+Iteracoes: 32
+Revisitacoes evitadas: 0
+Tempo gasto (segundos): 0.014
+Iteracao: 0 melhor solucao: 1782.0
+Iteracao: 1 melhor solucao: 1746.0
+Iteracao: 2 melhor solucao: 1600.0
+Iteracao: 3 melhor solucao: 1128.0
+Iteracao: 4 melhor solucao: 1103.0
+Iteracao: 5 melhor solucao: 1103.0
+Iteracao: 6 melhor solucao: 1094.0
+Iteracao: 7 melhor solucao: 1094.0
+Iteracao: 8 melhor solucao: 1092.0
+Iteracao: 9 melhor solucao: 1021.0
+Iteracao: 10 melhor solucao: 1021.0
+Iteracao: 11 melhor solucao: 1021.0
+Iteracao: 12 melhor solucao: 997.0
+Iteracao: 13 melhor solucao: 997.0
+Iteracao: 14 melhor solucao: 997.0
+Iteracao: 15 melhor solucao: 997.0
+Iteracao: 16 melhor solucao: 997.0
+Iteracao: 17 melhor solucao: 972.0
+Iteracao: 18 melhor solucao: 972.0
+Iteracao: 19 melhor solucao: 972.0
+Iteracao: 20 melhor solucao: 972.0
+Iteracao: 21 melhor solucao: 972.0
+Iteracao: 22 melhor solucao: 972.0
+Iteracao: 23 melhor solucao: 972.0
+Iteracao: 24 melhor solucao: 972.0
+Iteracao: 25 melhor solucao: 972.0
+Iteracao: 26 melhor solucao: 972.0
+Iteracao: 27 melhor solucao: 972.0
+Iteracao: 28 melhor solucao: 972.0
+Iteracao: 29 melhor solucao: 972.0
+Iteracao: 30 melhor solucao: 972.0
+Iteracao: 31 melhor solucao: 972.0

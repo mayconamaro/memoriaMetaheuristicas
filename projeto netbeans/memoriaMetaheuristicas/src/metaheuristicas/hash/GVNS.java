@@ -2,8 +2,11 @@ package metaheuristicas.hash;
 
 import interfaces.Instancia;
 import interfaces.Solucao;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Random;
+import memoria.Tuple;
 
 /**
  * Implementação do Variable Neighbourhood Search usando como busca local o
@@ -22,10 +25,12 @@ public class GVNS {
     private float valorFuncao;
     private Solucao resposta;
     private int iteracoestotal;
-    
+    public List<Tuple<Integer, Float>> historico;
 
     public void rodar(Solucao s, Instancia i, boolean usarOperadorBloco, boolean usarMemoria) {
 
+        historico = new ArrayList<>();
+        
         // inicializando revisitacoes
         revisitacoes = 0;
 
@@ -112,6 +117,7 @@ public class GVNS {
                 }
             }
 
+            historico.add(new Tuple<>(iteracoestotal, fstar));
             iteracoestotal++;
         }
 

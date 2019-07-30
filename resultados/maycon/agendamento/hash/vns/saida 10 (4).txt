@@ -1,0 +1,69 @@
+-- com memoria
+
+Valor da solucao inicial: 2493.0
+Valor da solucao final: 1247.0
+Iteracoes: 32
+Revisitacoes evitadas: 106
+Tempo gasto (segundos): 0.04
+Iteracao: 0 melhor solucao: 1378.0
+Iteracao: 1 melhor solucao: 1363.0
+Iteracao: 2 melhor solucao: 1326.0
+Iteracao: 3 melhor solucao: 1326.0
+Iteracao: 4 melhor solucao: 1326.0
+Iteracao: 5 melhor solucao: 1326.0
+Iteracao: 6 melhor solucao: 1326.0
+Iteracao: 7 melhor solucao: 1287.0
+Iteracao: 8 melhor solucao: 1287.0
+Iteracao: 9 melhor solucao: 1287.0
+Iteracao: 10 melhor solucao: 1287.0
+Iteracao: 11 melhor solucao: 1270.0
+Iteracao: 12 melhor solucao: 1270.0
+Iteracao: 13 melhor solucao: 1270.0
+Iteracao: 14 melhor solucao: 1270.0
+Iteracao: 15 melhor solucao: 1256.0
+Iteracao: 16 melhor solucao: 1256.0
+Iteracao: 17 melhor solucao: 1247.0
+Iteracao: 18 melhor solucao: 1247.0
+Iteracao: 19 melhor solucao: 1247.0
+Iteracao: 20 melhor solucao: 1247.0
+Iteracao: 21 melhor solucao: 1247.0
+Iteracao: 22 melhor solucao: 1247.0
+Iteracao: 23 melhor solucao: 1247.0
+Iteracao: 24 melhor solucao: 1247.0
+Iteracao: 25 melhor solucao: 1247.0
+Iteracao: 26 melhor solucao: 1247.0
+Iteracao: 27 melhor solucao: 1247.0
+Iteracao: 28 melhor solucao: 1247.0
+Iteracao: 29 melhor solucao: 1247.0
+Iteracao: 30 melhor solucao: 1247.0
+Iteracao: 31 melhor solucao: 1247.0
+
+--sem memoria
+Valor da solucao inicial: 2493.0
+Valor da solucao final: 1415.0
+Iteracoes: 23
+Revisitacoes evitadas: 0
+Tempo gasto (segundos): 0.01
+Iteracao: 0 melhor solucao: 1767.0
+Iteracao: 1 melhor solucao: 1704.0
+Iteracao: 2 melhor solucao: 1695.0
+Iteracao: 3 melhor solucao: 1608.0
+Iteracao: 4 melhor solucao: 1608.0
+Iteracao: 5 melhor solucao: 1581.0
+Iteracao: 6 melhor solucao: 1509.0
+Iteracao: 7 melhor solucao: 1508.0
+Iteracao: 8 melhor solucao: 1415.0
+Iteracao: 9 melhor solucao: 1415.0
+Iteracao: 10 melhor solucao: 1415.0
+Iteracao: 11 melhor solucao: 1415.0
+Iteracao: 12 melhor solucao: 1415.0
+Iteracao: 13 melhor solucao: 1415.0
+Iteracao: 14 melhor solucao: 1415.0
+Iteracao: 15 melhor solucao: 1415.0
+Iteracao: 16 melhor solucao: 1415.0
+Iteracao: 17 melhor solucao: 1415.0
+Iteracao: 18 melhor solucao: 1415.0
+Iteracao: 19 melhor solucao: 1415.0
+Iteracao: 20 melhor solucao: 1415.0
+Iteracao: 21 melhor solucao: 1415.0
+Iteracao: 22 melhor solucao: 1415.0
