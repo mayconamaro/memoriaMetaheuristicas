@@ -1,0 +1,104 @@
+run:
+Valor da solucao inicial: 893883.0
+Valor da solucao final: 418692.0
+Iteracoes: 63
+Revisitacoes evitadas: 161
+Tempo gasto (segundos): 0.053
+--Historico--
+Iteracao: 0 melhor solucao: 708983.0
+Iteracao: 1 melhor solucao: 689795.0
+Iteracao: 2 melhor solucao: 689795.0
+Iteracao: 3 melhor solucao: 648140.0
+Iteracao: 4 melhor solucao: 648140.0
+Iteracao: 5 melhor solucao: 594806.0
+Iteracao: 6 melhor solucao: 594806.0
+Iteracao: 7 melhor solucao: 594806.0
+Iteracao: 8 melhor solucao: 594806.0
+Iteracao: 9 melhor solucao: 594806.0
+Iteracao: 10 melhor solucao: 568822.0
+Iteracao: 11 melhor solucao: 560136.0
+Iteracao: 12 melhor solucao: 560136.0
+Iteracao: 13 melhor solucao: 512379.0
+Iteracao: 14 melhor solucao: 512379.0
+Iteracao: 15 melhor solucao: 512379.0
+Iteracao: 16 melhor solucao: 512379.0
+Iteracao: 17 melhor solucao: 512379.0
+Iteracao: 18 melhor solucao: 512379.0
+Iteracao: 19 melhor solucao: 508339.0
+Iteracao: 20 melhor solucao: 503110.0
+Iteracao: 21 melhor solucao: 501750.0
+Iteracao: 22 melhor solucao: 501750.0
+Iteracao: 23 melhor solucao: 501750.0
+Iteracao: 24 melhor solucao: 501750.0
+Iteracao: 25 melhor solucao: 484088.0
+Iteracao: 26 melhor solucao: 484088.0
+Iteracao: 27 melhor solucao: 484088.0
+Iteracao: 28 melhor solucao: 484088.0
+Iteracao: 29 melhor solucao: 484088.0
+Iteracao: 30 melhor solucao: 484088.0
+Iteracao: 31 melhor solucao: 484088.0
+Iteracao: 32 melhor solucao: 457881.0
+Iteracao: 33 melhor solucao: 446032.0
+Iteracao: 34 melhor solucao: 446032.0
+Iteracao: 35 melhor solucao: 446032.0
+Iteracao: 36 melhor solucao: 446032.0
+Iteracao: 37 melhor solucao: 446032.0
+Iteracao: 38 melhor solucao: 430466.0
+Iteracao: 39 melhor solucao: 430466.0
+Iteracao: 40 melhor solucao: 430466.0
+Iteracao: 41 melhor solucao: 430466.0
+Iteracao: 42 melhor solucao: 430466.0
+Iteracao: 43 melhor solucao: 430466.0
+Iteracao: 44 melhor solucao: 430466.0
+Iteracao: 45 melhor solucao: 430466.0
+Iteracao: 46 melhor solucao: 430466.0
+Iteracao: 47 melhor solucao: 430466.0
+Iteracao: 48 melhor solucao: 418692.0
+Iteracao: 49 melhor solucao: 418692.0
+Iteracao: 50 melhor solucao: 418692.0
+Iteracao: 51 melhor solucao: 418692.0
+Iteracao: 52 melhor solucao: 418692.0
+Iteracao: 53 melhor solucao: 418692.0
+Iteracao: 54 melhor solucao: 418692.0
+Iteracao: 55 melhor solucao: 418692.0
+Iteracao: 56 melhor solucao: 418692.0
+Iteracao: 57 melhor solucao: 418692.0
+Iteracao: 58 melhor solucao: 418692.0
+Iteracao: 59 melhor solucao: 418692.0
+Iteracao: 60 melhor solucao: 418692.0
+Iteracao: 61 melhor solucao: 418692.0
+Iteracao: 62 melhor solucao: 418692.0
+
+
+
+run:
+Valor da solucao inicial: 893883.0
+Valor da solucao final: 601283.0
+Iteracoes: 24
+Revisitacoes evitadas: 0
+Tempo gasto (segundos): 0.016
+--Historico--
+Iteracao: 0 melhor solucao: 795730.0
+Iteracao: 1 melhor solucao: 718726.0
+Iteracao: 2 melhor solucao: 718726.0
+Iteracao: 3 melhor solucao: 679669.0
+Iteracao: 4 melhor solucao: 679669.0
+Iteracao: 5 melhor solucao: 677997.0
+Iteracao: 6 melhor solucao: 677997.0
+Iteracao: 7 melhor solucao: 655375.0
+Iteracao: 8 melhor solucao: 655375.0
+Iteracao: 9 melhor solucao: 601283.0
+Iteracao: 10 melhor solucao: 601283.0
+Iteracao: 11 melhor solucao: 601283.0
+Iteracao: 12 melhor solucao: 601283.0
+Iteracao: 13 melhor solucao: 601283.0
+Iteracao: 14 melhor solucao: 601283.0
+Iteracao: 15 melhor solucao: 601283.0
+Iteracao: 16 melhor solucao: 601283.0
+Iteracao: 17 melhor solucao: 601283.0
+Iteracao: 18 melhor solucao: 601283.0
+Iteracao: 19 melhor solucao: 601283.0
+Iteracao: 20 melhor solucao: 601283.0
+Iteracao: 21 melhor solucao: 601283.0
+Iteracao: 22 melhor solucao: 601283.0
+Iteracao: 23 melhor solucao: 601283.0
