@@ -185,7 +185,7 @@ public class BFSolucao implements Solucao{
             // BUSCA POR BLOCO - PAULA
             case 3:
                 
-                int tam_bloco = 5; //divisor de todos os tamanhos
+                int tam_bloco = 2; //divisor de todos os tamanhos
                 
                 int qtnde_blocos = this.tarefas.size() / tam_bloco;
                 
@@ -197,8 +197,8 @@ public class BFSolucao implements Solucao{
                 
                 List<Integer> novas_tarefas = new ArrayList<>(tarefas);
                 
-                int inicioBloco1 = 5 * bloco1;
-                int inicioBloco2 = 5 * bloco2;
+                int inicioBloco1 = tam_bloco * bloco1;
+                int inicioBloco2 = tam_bloco * bloco2;
                 
                 for(int i1 = 0; i1 < tam_bloco; i1++){
                     

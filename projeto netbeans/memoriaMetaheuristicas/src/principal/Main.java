@@ -23,13 +23,13 @@ public class Main {
         boolean USAR_MEMORIA = true;
         
         //true/false, é preciso usar memoria pra usar esse
-        boolean USAR_OPERADOR_POR_BLOCO = false;
+        boolean USAR_OPERADOR_POR_BLOCO = true;
         
         // 1 para GVNS, 2 para Simulated Annealing
         int METAHEURISTICA = 1;
         
         // 1 para tabela hash, 2 para arvore de prefixos
-        int ESTRUTURA_MEMORIA = 2;
+        int ESTRUTURA_MEMORIA = 1;
         
         // 1 para scheduling, 2 para caixeiro viajante
         int PROBLEMA = 1;
