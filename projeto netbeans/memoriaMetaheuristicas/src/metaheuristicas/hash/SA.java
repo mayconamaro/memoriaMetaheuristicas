@@ -20,7 +20,7 @@ import memoria.Tuple;
  */
 public class SA {
 
-    private static final long SEED = 1100111001;
+    //private static final long SEED = 1100111001;
     private int revisitacoes;
     private float valorFuncao;
     private Solucao resposta;
@@ -28,7 +28,7 @@ public class SA {
     private int iteracoes;
     public List<Tuple<Integer, Float>> historico;
 
-    public void rodar(Solucao s, Instancia i, boolean usarOperadorBloco, boolean usarMemoria) {
+    public void rodar(Solucao s, Instancia i, boolean usarOperadorBloco, boolean usarMemoria, long SEED) {
 
         historico = new ArrayList<>();
         iteracoes = 0;

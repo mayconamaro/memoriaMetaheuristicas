@@ -19,7 +19,7 @@ public class GVNS {
 
     private static final int ITER_MAX = 30;
     private static final int K_MAX = 2;
-    private static final long SEED = 1100111001;
+    //private static final long SEED = 1100111001;
     private Trie memoria;
     private int revisitacoes;
     private float valorFuncao;
@@ -27,7 +27,7 @@ public class GVNS {
     private int iteracoestotal;
     public List<Tuple<Integer, Float>> historico;
 
-    public void rodar(Solucao s, Instancia i, boolean usarOperadorBloco, boolean usarMemoria) {
+    public void rodar(Solucao s, Instancia i, boolean usarOperadorBloco, boolean usarMemoria, long SEED) {
 
         historico = new ArrayList<>();
         // inicializando revisitacoes

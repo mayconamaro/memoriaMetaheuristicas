@@ -1,0 +1,238 @@
+Valor da solucao inicial: 48311.0
+PROBLEMA: 1
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? false
+Instancia: 50 ( 1)
+media fo: 40506.9
+media tempo: 0.1408
+media revisitacao: 0.0
+media iteracao: 7628.3
+melhor fo: 37150.0
+melhor tempo: 0.416
+melhr revisitacao: 0.0
+melhor iteracao: 7596.0
+pior fo: 42815.0
+pior tempo: 0.323
+pior revisitacao: 0.0
+pior iteracao: 7680.0
+
+
+Valor da solucao inicial: 47298.0
+PROBLEMA: 1
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? false
+Instancia: 50 ( 2)
+media fo: 34503.5
+media tempo: 0.0769
+media revisitacao: 0.0
+media iteracao: 7663.7
+melhor fo: 31810.0
+melhor tempo: 0.084
+melhr revisitacao: 0.0
+melhor iteracao: 7765.0
+pior fo: 37920.0
+pior tempo: 0.062
+pior revisitacao: 0.0
+pior iteracao: 7634.0
+
+
+Valor da solucao inicial: 52892.0
+PROBLEMA: 1
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? false
+Instancia: 50 ( 3)
+media fo: 38388.0
+media tempo: 0.07339999999999999
+media revisitacao: 0.0
+media iteracao: 7646.4
+melhor fo: 36290.0
+melhor tempo: 0.062
+melhr revisitacao: 0.0
+melhor iteracao: 7708.0
+pior fo: 39464.0
+pior tempo: 0.078
+pior revisitacao: 0.0
+pior iteracao: 7645.0
+
+
+Valor da solucao inicial: 225238.0
+PROBLEMA: 1
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? false
+Instancia: 100 ( 1)
+media fo: 176358.3
+media tempo: 0.1313
+media revisitacao: 0.0
+media iteracao: 7665.8
+melhor fo: 172664.0
+melhor tempo: 0.141
+melhr revisitacao: 0.0
+melhor iteracao: 7623.0
+pior fo: 180679.0
+pior tempo: 0.125
+pior revisitacao: 0.0
+pior iteracao: 7526.0
+
+
+Valor da solucao inicial: 208704.0
+PROBLEMA: 1
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? false
+Instancia: 100 ( 2)
+media fo: 155765.6
+media tempo: 0.1234
+media revisitacao: 0.0
+media iteracao: 7595.1
+melhor fo: 152080.0
+melhor tempo: 0.125
+melhr revisitacao: 0.0
+melhor iteracao: 7659.0
+pior fo: 160297.0
+pior tempo: 0.125
+pior revisitacao: 0.0
+pior iteracao: 7598.0
+
+
+Valor da solucao inicial: 194156.0
+PROBLEMA: 1
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? false
+Instancia: 100 ( 3)
+media fo: 161481.6
+media tempo: 0.1266
+media revisitacao: 0.0
+media iteracao: 7659.8
+melhor fo: 156935.0
+melhor tempo: 0.109
+melhr revisitacao: 0.0
+melhor iteracao: 7529.0
+pior fo: 164696.0
+pior tempo: 0.141
+pior revisitacao: 0.0
+pior iteracao: 7567.0
+
+
+Valor da solucao inicial: 751495.0
+PROBLEMA: 1
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? false
+Instancia: 200 ( 1)
+media fo: 691912.6
+media tempo: 0.2532
+media revisitacao: 0.0
+media iteracao: 7676.6
+melhor fo: 668739.0
+melhor tempo: 0.25
+melhr revisitacao: 0.0
+melhor iteracao: 7642.0
+pior fo: 705275.0
+pior tempo: 0.25
+pior revisitacao: 0.0
+pior iteracao: 7597.0
+
+
+Valor da solucao inicial: 861711.0
+PROBLEMA: 1
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? false
+Instancia: 200 ( 2)
+media fo: 731078.9
+media tempo: 0.2515
+media revisitacao: 0.0
+media iteracao: 7666.0
+melhor fo: 711851.0
+melhor tempo: 0.25
+melhr revisitacao: 0.0
+melhor iteracao: 7655.0
+pior fo: 750363.0
+pior tempo: 0.265
+pior revisitacao: 0.0
+pior iteracao: 7704.0
+
+
+Valor da solucao inicial: 804323.0
+PROBLEMA: 1
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? false
+Instancia: 200 ( 3)
+media fo: 673878.5
+media tempo: 0.25630000000000003
+media revisitacao: 0.0
+media iteracao: 7645.9
+melhor fo: 648715.0
+melhor tempo: 0.251
+melhr revisitacao: 0.0
+melhor iteracao: 7625.0
+pior fo: 689690.0
+pior tempo: 0.266
+pior revisitacao: 0.0
+pior iteracao: 7735.0
+
+
+Valor da solucao inicial: 4762055.0
+PROBLEMA: 1
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? false
+Instancia: 500 ( 1)
+media fo: 4435019.0
+media tempo: 0.6376000000000001
+media revisitacao: 0.0
+media iteracao: 7648.0
+melhor fo: 4344700.0
+melhor tempo: 0.626
+melhr revisitacao: 0.0
+melhor iteracao: 7614.0
+pior fo: 4539553.0
+pior tempo: 0.657
+pior revisitacao: 0.0
+pior iteracao: 7692.0
+
+
+Valor da solucao inicial: 5067963.0
+PROBLEMA: 1
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? false
+Instancia: 500 ( 2)
+media fo: 4821072.0
+media tempo: 0.636
+media revisitacao: 0.0
+media iteracao: 7634.8
+melhor fo: 4716500.0
+melhor tempo: 0.641
+melhr revisitacao: 0.0
+melhor iteracao: 7593.0
+pior fo: 4884720.0
+pior tempo: 0.61
+pior revisitacao: 0.0
+pior iteracao: 7590.0
+
+
+Valor da solucao inicial: 4786392.0
+PROBLEMA: 1
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? false
+Instancia: 500 ( 3)
+media fo: 4629069.0
+media tempo: 0.6344000000000001
+media revisitacao: 0.0
+media iteracao: 7646.0
+melhor fo: 4555796.0
+melhor tempo: 0.64
+melhr revisitacao: 0.0
+melhor iteracao: 7730.0
+pior fo: 4710669.0
+pior tempo: 0.609
+pior revisitacao: 0.0
+pior iteracao: 7603.0

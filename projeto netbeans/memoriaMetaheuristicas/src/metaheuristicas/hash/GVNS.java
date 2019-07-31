@@ -19,7 +19,16 @@ public class GVNS {
 
     private static final int ITER_MAX = 30;
     private static final int K_MAX = 2;
-    private static final long SEED = 1100111001;
+    //private static final long SEED = 1100111001;
+    //private static final long SEED = 1100111010;
+    //private static final long SEED = 1100111011;
+    //private static final long SEED = 1100111100;
+    //private static final long SEED = 1100111101;
+    //private static final long SEED = 1100111110;
+    //private static final long SEED = 1100111111;
+    //private static final long SEED = 1101000000;
+    //private static final long SEED = 1101000001;
+    //private static final long SEED = 1101000010;
     private HashMap<Solucao, Float> memoria;
     private int revisitacoes;
     private float valorFuncao;
@@ -27,7 +36,7 @@ public class GVNS {
     private int iteracoestotal;
     public List<Tuple<Integer, Float>> historico;
 
-    public void rodar(Solucao s, Instancia i, boolean usarOperadorBloco, boolean usarMemoria) {
+    public void rodar(Solucao s, Instancia i, boolean usarOperadorBloco, boolean usarMemoria, long SEED) {
 
         historico = new ArrayList<>();
         
