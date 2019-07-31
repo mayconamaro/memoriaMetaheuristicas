@@ -1,0 +1,119 @@
+Valor da solucao inicial: 48311.0
+PROBLEMA: 1
+ESTRUTURA: 2
+METAHEURISTICA: 1
+USANDO MEMORIA? true
+Instancia: 50 ( 1)
+media fo: 25096.0
+media tempo: 0.5953999999999999
+media revisitacao: 565.5
+media iteracao: 199.6
+melhor fo: 23967.0
+melhor tempo: 0.609
+melhr revisitacao: 785.0
+melhor iteracao: 285.0
+pior fo: 27428.0
+pior tempo: 0.172
+pior revisitacao: 251.0
+pior iteracao: 77.0
+
+
+Valor da solucao inicial: 47298.0
+PROBLEMA: 1
+ESTRUTURA: 2
+METAHEURISTICA: 1
+USANDO MEMORIA? true
+Instancia: 50 ( 2)
+media fo: 18481.2
+media tempo: 0.45630000000000004
+media revisitacao: 664.8
+media iteracao: 234.0
+melhor fo: 18055.0
+melhor tempo: 0.718
+melhr revisitacao: 763.0
+melhor iteracao: 278.0
+pior fo: 18932.0
+pior tempo: 0.328
+pior revisitacao: 402.0
+pior iteracao: 129.0
+
+
+Valor da solucao inicial: 52892.0
+PROBLEMA: 1
+ESTRUTURA: 2
+METAHEURISTICA: 1
+USANDO MEMORIA? true
+Instancia: 50 ( 3)
+media fo: 21145.7
+media tempo: 0.38439999999999996
+media revisitacao: 625.8
+media iteracao: 217.5
+melhor fo: 20678.0
+melhor tempo: 0.719
+melhr revisitacao: 879.0
+melhor iteracao: 322.0
+pior fo: 21663.0
+pior tempo: 0.265
+pior revisitacao: 541.0
+pior iteracao: 182.0
+
+
+Valor da solucao inicial: 225238.0
+PROBLEMA: 1
+ESTRUTURA: 2
+METAHEURISTICA: 1
+USANDO MEMORIA? true
+Instancia: 100 ( 1)
+media fo: 87901.2
+media tempo: 4.4293
+media revisitacao: 1808.4
+media iteracao: 624.6
+melhor fo: 86340.0
+melhor tempo: 5.657
+melhr revisitacao: 1811.0
+melhor iteracao: 643.0
+pior fo: 91755.0
+pior tempo: 1.937
+pior revisitacao: 884.0
+pior iteracao: 263.0
+
+
+Valor da solucao inicial: 208704.0
+PROBLEMA: 1
+ESTRUTURA: 2
+METAHEURISTICA: 1
+USANDO MEMORIA? true
+Instancia: 100 ( 2)
+media fo: 74691.1
+media tempo: 3.7116999999999996
+media revisitacao: 1651.2
+media iteracao: 561.3
+melhor fo: 73750.0
+melhor tempo: 4.485
+melhr revisitacao: 2092.0
+melhor iteracao: 733.0
+pior fo: 76144.0
+pior tempo: 2.344
+pior revisitacao: 1229.0
+pior iteracao: 383.0
+
+
+Valor da solucao inicial: 194156.0
+PROBLEMA: 1
+ESTRUTURA: 2
+METAHEURISTICA: 1
+USANDO MEMORIA? true
+Instancia: 100 ( 3)
+media fo: 82360.6
+media tempo: 3.408
+media revisitacao: 1542.6
+media iteracao: 516.5
+melhor fo: 80976.0
+melhor tempo: 5.313
+melhr revisitacao: 1809.0
+melhor iteracao: 616.0
+pior fo: 85669.0
+pior tempo: 1.657
+pior revisitacao: 942.0
+pior iteracao: 285.0
+

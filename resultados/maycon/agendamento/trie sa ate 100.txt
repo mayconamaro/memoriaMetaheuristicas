@@ -1,0 +1,118 @@
+Valor da solucao inicial: 48311.0
+PROBLEMA: 1
+ESTRUTURA: 2
+METAHEURISTICA: 2
+USANDO MEMORIA? true
+Instancia: 50 ( 1)
+media fo: 40391.0
+media tempo: 0.3953
+media revisitacao: 7.2
+media iteracao: 7655.7
+melhor fo: 37150.0
+melhor tempo: 0.734
+melhr revisitacao: 6.0
+melhor iteracao: 7599.0
+pior fo: 41368.0
+pior tempo: 0.391
+pior revisitacao: 4.0
+pior iteracao: 7623.0
+
+
+Valor da solucao inicial: 47298.0
+PROBLEMA: 1
+ESTRUTURA: 2
+METAHEURISTICA: 2
+USANDO MEMORIA? true
+Instancia: 50 ( 2)
+media fo: 34011.2
+media tempo: 0.2563
+media revisitacao: 7.0
+media iteracao: 7650.9
+melhor fo: 32413.0
+melhor tempo: 0.203
+melhr revisitacao: 8.0
+melhor iteracao: 7667.0
+pior fo: 35720.0
+pior tempo: 0.203
+pior revisitacao: 8.0
+pior iteracao: 7555.0
+
+
+Valor da solucao inicial: 52892.0
+PROBLEMA: 1
+ESTRUTURA: 2
+METAHEURISTICA: 2
+USANDO MEMORIA? true
+Instancia: 50 ( 3)
+media fo: 38346.2
+media tempo: 0.23279999999999998
+media revisitacao: 6.7
+media iteracao: 7639.7
+melhor fo: 36290.0
+melhor tempo: 0.203
+melhr revisitacao: 5.0
+melhor iteracao: 7686.0
+pior fo: 41002.0
+pior tempo: 0.203
+pior revisitacao: 5.0
+pior iteracao: 7583.0
+
+
+Valor da solucao inicial: 225238.0
+PROBLEMA: 1
+ESTRUTURA: 2
+METAHEURISTICA: 2
+USANDO MEMORIA? true
+Instancia: 100 ( 1)
+media fo: 176617.4
+media tempo: 0.48130000000000006
+media revisitacao: 2.6
+media iteracao: 7659.6
+melhor fo: 172664.0
+melhor tempo: 0.563
+melhr revisitacao: 1.0
+melhor iteracao: 7608.0
+pior fo: 179860.0
+pior tempo: 0.469
+pior revisitacao: 4.0
+pior iteracao: 7764.0
+
+
+Valor da solucao inicial: 208704.0
+PROBLEMA: 1
+ESTRUTURA: 2
+METAHEURISTICA: 2
+USANDO MEMORIA? true
+Instancia: 100 ( 2)
+media fo: 156654.0
+media tempo: 0.43439999999999995
+media revisitacao: 2.8
+media iteracao: 7618.1
+melhor fo: 152080.0
+melhor tempo: 0.36
+melhr revisitacao: 3.0
+melhor iteracao: 7663.0
+pior fo: 161876.0
+pior tempo: 0.531
+pior revisitacao: 4.0
+pior iteracao: 7615.0
+
+
+Valor da solucao inicial: 194156.0
+PROBLEMA: 1
+ESTRUTURA: 2
+METAHEURISTICA: 2
+USANDO MEMORIA? true
+Instancia: 100 ( 3)
+media fo: 162079.2
+media tempo: 0.41879999999999995
+media revisitacao: 3.0
+media iteracao: 7638.6
+melhor fo: 156935.0
+melhor tempo: 0.36
+melhr revisitacao: 0.0
+melhor iteracao: 7529.0
+pior fo: 166504.0
+pior tempo: 0.469
+pior revisitacao: 4.0
+pior iteracao: 7523.0

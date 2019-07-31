@@ -1,0 +1,58 @@
+Valor da solucao inicial: 8541035.0
+PROBLEMA: 2
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? true
+Instancia: 500 ( 1)
+media fo: 7584529.5
+media tempo: 6.2238
+media revisitacao: 0.0
+media iteracao: 7680.9
+melhor fo: 7381543.0
+melhor tempo: 6.188
+melhr revisitacao: 0.0
+melhor iteracao: 7726.0
+pior fo: 7816677.0
+pior tempo: 6.266
+pior revisitacao: 0.0
+pior iteracao: 7681.0
+
+
+Valor da solucao inicial: 8173361.0
+PROBLEMA: 2
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? true
+Instancia: 500 ( 2)
+media fo: 7550790.5
+media tempo: 6.3115
+media revisitacao: 0.0
+media iteracao: 7676.0
+melhor fo: 7355043.0
+melhor tempo: 6.485
+melhr revisitacao: 0.0
+melhor iteracao: 7665.0
+pior fo: 7658282.0
+pior tempo: 6.156
+pior revisitacao: 0.0
+pior iteracao: 7681.0
+
+
+Valor da solucao inicial: 8035093.0
+PROBLEMA: 2
+ESTRUTURA: 1
+METAHEURISTICA: 2
+USANDO MEMORIA? true
+Instancia: 500 ( 3)
+media fo: 7588873.5
+media tempo: 6.1197
+media revisitacao: 0.0
+media iteracao: 7658.8
+melhor fo: 7363991.0
+melhor tempo: 5.734
+melhr revisitacao: 0.0
+melhor iteracao: 7587.0
+pior fo: 7771554.0
+pior tempo: 6.22
+pior revisitacao: 0.0
+pior iteracao: 7577.0
